@@ -1,4 +1,4 @@
-# XTREAM Player
+# A SIMPLE XTREAM Player
 
 A modern, feature-rich IPTV player application built with Python and customtkinter, designed for seamless streaming experience.
 
